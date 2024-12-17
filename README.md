@@ -89,8 +89,8 @@ Ensure the following are installed:
 ### **Project Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/tcc-optimization.git
-   cd tcc-optimization
+   git clone https://github.com/hashing-benchmark/hashing-benchmark.git
+   cd hashing-benchmark
    ```
 2. Start Hyperledger Fabric Test Network:
    ```bash
