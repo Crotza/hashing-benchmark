@@ -6,7 +6,7 @@ PARALLEL_SCRIPT="create_assets_parallel.sh"
 PLOT_SCRIPT="plot_results.py"
 LOGS_DIR="logs"
 PLOTS_DIR="plots"
-NUM_ASSETS=1000
+NUM_ASSETS=10
 PYTHON_EXEC="python3"
 
 # Step 1: Ensure Scripts Have Execute Permissions

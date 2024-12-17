@@ -14,7 +14,8 @@
 5. [Running the Benchmark](#running-the-benchmark)
 6. [Generated Plots and Results](#generated-plots-and-results)
 7. [Results Analysis](#results-analysis)
-8. [Future Improvements](#future-improvements)
+8. [Cleanup Process](#cleanup-process)
+9. [Future Improvements](#future-improvements)
 
 ---
 
@@ -94,7 +95,7 @@ Ensure the following are installed:
    ```
 2. Start Hyperledger Fabric Test Network:
    ```bash
-   cd fabric-samples/test-network
+   cd fabric-samples/hashing-benchmark-project
    ./network.sh up createChannel -ca
    ```
 
@@ -131,6 +132,11 @@ Ensure the following are installed:
    - CPU and Memory Usage  
    - Relative Improvement in Throughput and Time  
 
+### **5. cleanup.sh**
+- Stops the Hyperledger Fabric network.  
+- Cleans up logs, plots, and temporary files.  
+- Ensures a fresh environment for re-running benchmarks.
+
 ---
 
 ## **5. Running the Benchmark**
@@ -158,7 +164,7 @@ The results generated during the benchmarking process are saved in the `plots/` 
 
 **Example Output Directory**:
 ```
-root-level/
+hashing-benchmark-project/
 │
 ├── logs/
 │   ├── master_sequential_metrics.csv
@@ -224,7 +230,20 @@ As asset count increases, relative improvements stabilize, indicating a balance 
 
 ---
 
-## **8. Future Improvements**
+## **8. Cleanup Process**
+
+After running the benchmarks, you can clean up the environment using the `cleanup.sh` script. This script:
+- Stops the Hyperledger Fabric network.
+- Deletes all generated logs, plots, and temporary files.
+
+### **Run the Cleanup Script**
+```bash
+./cleanup.sh
+```
+
+This ensures a clean setup for rerunning the benchmarks.
+
+## **9. Future Improvements**
 - Integrate post-quantum signature schemes (e.g., SPHINCS+, CRYSTALS-DILITHIUM).  
 - Optimize multithreading using libraries like OpenMP or GNU Parallel.  
 - Simulate realistic blockchain workloads using larger datasets.  
