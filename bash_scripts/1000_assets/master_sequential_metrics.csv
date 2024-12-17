@@ -1,0 +1,6 @@
+Algorithm,Mode,Assets Processed,Success,Failures,Total Time (ms),Min Latency (ms),Max Latency (ms),Avg Latency (ms),Std Dev Latency (ms),Peak CPU (%),Avg CPU (%),Peak Mem (%),Avg Mem (%),Throughput (assets/sec)
+sha256,sequential,1000,1000,0,188272,2.00,11.00,2.84,1.22,5.5,1.01,13.55,13.47,5.31
+sha512,sequential,1000,1000,0,185168,2.00,13.00,2.42,1.00,10.2,0.94,13.79,13.58,5.40
+blake3,sequential,1000,1000,0,183054,2.00,60.00,3.72,3.88,6.7,0.95,13.88,13.62,5.46
+blake2b,sequential,1000,1000,0,179703,2.00,14.00,2.38,0.77,6.4,0.74,13.78,13.57,5.56
+md5,sequential,1000,1000,0,182192,2.00,12.00,2.43,0.97,6.4,0.76,13.60,13.46,5.49

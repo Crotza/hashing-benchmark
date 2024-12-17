@@ -1,0 +1,50 @@
+Master Run Log - Tue Dec  3 06:22:01 -03 2024
+------------------------------------------
+This script runs both the sequential and parallel asset creation scripts and collects their metrics.
+
+Running sequential hashing for 10 assets...
+Sequential hashing completed. Results saved in sequential_hash_metrics.txt.
+
+------------------------------------------
+
+Running parallel hashing for 10 assets...
+Parallel hashing completed. Results saved in parallel_hash_metrics.txt.
+
+------------------------------------------
+
+Summary of Results:
+
+Sequential Metrics:
+  Total Assets Processed: 10
+  Total Execution Time (ms): 1835
+  Average Time per Asset (ms): 183
+    Peak CPU Usage (%): 0.8
+    Average CPU Usage (%): 0.32
+    Peak Memory Usage (%): 7.15
+    Average Memory Usage (%): 7.14
+    Minimum: 2.00
+    Maximum: 6.00
+    Std Dev: 1.17
+
+Parallel Metrics:
+  Total Assets Processed: 10
+  Total Execution Time (ms): 278
+  Average Time per Asset (ms): 27
+    Peak CPU Usage (%): 8
+    Average CPU Usage (%): 7.64
+    Peak Memory Usage (%): 7.25
+    Average Memory Usage (%): 7.25
+    Minimum: 3.00
+    Maximum: 12.00
+    Std Dev: 2.73
+
+Enhanced Metrics:
+  Parallel Normalized Time per Asset (ms): 3.37
+  Sequential Throughput (assets/second): 5.46
+  Parallel Throughput (assets/second): 37.03
+  Parallel Efficiency (%): 82.00
+  Latency Difference (Sequential - Parallel, ms): 156.00
+  Sequential Latency Distribution (ms): Min=2.00, Max=6.00, StdDev=1.17
+  Parallel Latency Distribution (ms): Min=3.00, Max=12.00, StdDev=2.73
+------------------------------------------
+Master run completed. Check master_run_metrics.txt for the summary of results.

@@ -1,0 +1,10 @@
+Hashing Benchmark Metrics - Tue Dec 17 12:29:25 -03 2024
+------------------------------------------------
+Number of Assets: 10
+| Algorithm | Assets Processed | Success | Failures | Total Time (ms) | Min Latency (ms) | Max Latency (ms) | Avg Latency (ms) | Std Dev Latency (ms) | Peak CPU (%) | Avg CPU (%) | Peak Mem (%) | Avg Mem (%) | Throughput (assets/sec) |
+|-----------|------------------|---------|----------|-----------------|------------------|------------------|------------------|----------------------|--------------|-------------|--------------|-------------|-------------------------|
+| sha256 | sequential | 10 | 10 | 0 | 1671 ms | 2.00 ms | 2.00 ms | 2.00 ms | 0.00 ms | 1.6 | 0.32 | 13.52 | 13.51 | 5.98 |
+| sha512 | sequential | 10 | 10 | 0 | 1752 ms | 2.00 ms | 5.00 ms | 3.10 ms | 1.30 ms | 1.6 | 0.80 | 13.54 | 13.53 | 5.71 |
+| blake3 | sequential | 10 | 10 | 0 | 1740 ms | 2.00 ms | 6.00 ms | 3.80 ms | 1.47 ms | 5.7 | 1.69 | 13.55 | 13.52 | 5.75 |
+| blake2b | sequential | 10 | 10 | 0 | 1703 ms | 2.00 ms | 6.00 ms | 2.60 ms | 1.28 ms | 3.2 | 0.80 | 13.54 | 13.52 | 5.87 |
+| md5 | sequential | 10 | 10 | 0 | 4443 ms | 2.00 ms | 5.00 ms | 2.70 ms | 1.00 ms | 12.6 | 2.93 | 13.65 | 13.51 | 2.25 |

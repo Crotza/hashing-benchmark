@@ -1,0 +1,722 @@
+Asset Creation Log - Parallel Hashing - Tue Dec 17 12:27:01 -03 2024
+------------------------------------------------
+Hashing Algorithm: md5
+
+Asset ID: asset2
+  Hash Input: asset2 | color2 | 22 | owner2 | 200
+  Hash: 731fb9f0dad22131c043fe4b5309378c
+  Time to Hash (ms): 3
+  CPU Usage (%): 100
+  Memory Usage (%): 16.86
+------------------------------------------------
+Asset ID: asset3
+  Hash Input: asset3 | color3 | 23 | owner3 | 300
+  Hash: ac8705c79fd395053044cadf82461ab5
+  Time to Hash (ms): 5
+  CPU Usage (%): 100
+  Memory Usage (%): 16.96
+------------------------------------------------
+Asset ID: asset6
+  Hash Input: asset6 | color6 | 26 | owner6 | 600
+  Hash: 698a1b2564b33519cca5b58e7d1d1c44
+  Time to Hash (ms): 10
+  CPU Usage (%): 100
+  Memory Usage (%): 16.93
+------------------------------------------------
+Asset ID: asset4
+  Hash Input: asset4 | color4 | 24 | owner4 | 400
+  Hash: 9c28bd82cae6b5c5fa46b62d28aa21fd
+  Time to Hash (ms): 8
+  CPU Usage (%): 100
+  Memory Usage (%): 16.96
+------------------------------------------------
+Asset ID: asset5
+  Hash Input: asset5 | color5 | 25 | owner5 | 500
+  Hash: e68479d804c899ebfcef826a3315cb03
+  Time to Hash (ms): 20
+  CPU Usage (%): 99.2
+  Memory Usage (%): 16.95
+------------------------------------------------
+Asset ID: asset15
+  Hash Input: asset15 | color15 | 35 | owner15 | 1500
+  Hash: 75ee5a7da43167edd6b2f07c93fd212a
+  Time to Hash (ms): 14
+  CPU Usage (%): 98.8
+  Memory Usage (%): 16.91
+------------------------------------------------
+Asset ID: asset8
+  Hash Input: asset8 | color8 | 28 | owner8 | 800
+  Hash: bfd0db6e33366bdf737ac4340a621e86
+  Time to Hash (ms): 13
+  CPU Usage (%): 98.4
+  Memory Usage (%): 16.91
+------------------------------------------------
+Asset ID: asset7
+  Hash Input: asset7 | color7 | 27 | owner7 | 700
+  Hash: d07ab863040577459ca440097102292d
+  Time to Hash (ms): 10
+  CPU Usage (%): 98.2
+  Memory Usage (%): 16.88
+------------------------------------------------
+Asset ID: asset31
+  Hash Input: asset31 | color31 | 51 | owner31 | 3100
+  Hash: de929469a72aa36bd06274af6301ad1d
+  Time to Hash (ms): 32
+  CPU Usage (%): 96.9
+  Memory Usage (%): 16.86
+------------------------------------------------
+Asset ID: asset16
+  Hash Input: asset16 | color16 | 36 | owner16 | 1600
+  Hash: 4c93f56bbe73138982d03883eb13daa9
+  Time to Hash (ms): 34
+  CPU Usage (%): 96.9
+  Memory Usage (%): 16.86
+------------------------------------------------
+Asset ID: asset19
+  Hash Input: asset19 | color19 | 39 | owner19 | 1900
+  Hash: 0745aef83e834d3c947ed93f6a4c0bb8
+  Time to Hash (ms): 31
+  CPU Usage (%): 95.7
+  Memory Usage (%): 16.76
+------------------------------------------------
+Asset ID: asset45
+  Hash Input: asset45 | color45 | 65 | owner45 | 4500
+  Hash: 66ca6686532e46f20c01aa241b62f599
+  Time to Hash (ms): 43
+  CPU Usage (%): 94.8
+  Memory Usage (%): 16.76
+------------------------------------------------
+Asset ID: asset21
+  Hash Input: asset21 | color21 | 41 | owner21 | 2100
+  Hash: b8ec4fc40188c7f6b1b19f969c4984ff
+  Time to Hash (ms): 47
+  CPU Usage (%): 94.5
+  Memory Usage (%): 16.74
+------------------------------------------------
+Asset ID: asset28
+  Hash Input: asset28 | color28 | 48 | owner28 | 2800
+  Hash: cb94ba5da002696b6f384a6966688ae9
+  Time to Hash (ms): 21
+  CPU Usage (%): 95.3
+  Memory Usage (%): 16.56
+------------------------------------------------
+Asset ID: asset23
+  Hash Input: asset23 | color23 | 43 | owner23 | 2300
+  Hash: ed3c32bf011fb0e287ef99b80ff50412
+  Time to Hash (ms): 26
+  CPU Usage (%): 95.3
+  Memory Usage (%): 16.56
+------------------------------------------------
+Asset ID: asset55
+  Hash Input: asset55 | color55 | 75 | owner55 | 5500
+  Hash: a0fc28e469b62dda4ff6c048d0a7d577
+  Time to Hash (ms): 56
+  CPU Usage (%): 93.1
+  Memory Usage (%): 16.54
+------------------------------------------------
+Asset ID: asset18
+  Hash Input: asset18 | color18 | 38 | owner18 | 1800
+  Hash: 1309418c8494508d0d080b04defb3fb7
+  Time to Hash (ms): 16
+  CPU Usage (%): 91.7
+  Memory Usage (%): 16.50
+------------------------------------------------
+Asset ID: asset22
+Asset ID: asset49
+  Hash Input: asset22 | color22 | 42 | owner22 | 2200
+  Hash Input: asset49 | color49 | 69 | owner49 | 4900
+  Hash: e7211a5ebabee884b1bc35a2ddcc848e
+  Hash: bfaeef166de8b300c90d35cebd958396
+  Time to Hash (ms): 59
+  Time to Hash (ms): 30
+  CPU Usage (%): 87.9
+  CPU Usage (%): 89.9
+  Memory Usage (%): 16.50
+  Memory Usage (%): 16.50
+------------------------------------------------
+------------------------------------------------
+Asset ID: asset25
+  Hash Input: asset25 | color25 | 45 | owner25 | 2500
+  Hash: 9cd0ba5a6f0ad4600366e0215c82bd87
+  Time to Hash (ms): 22
+  CPU Usage (%): 88.8
+  Memory Usage (%): 16.35
+------------------------------------------------
+Asset ID: asset50
+  Hash Input: asset50 | color50 | 70 | owner50 | 5000
+  Hash: 5b326b7763c1dadf461ec16da300b69f
+  Time to Hash (ms): 51
+  CPU Usage (%): 83.7
+  Memory Usage (%): 16.35
+------------------------------------------------
+Asset ID: asset36
+  Hash Input: asset36 | color36 | 56 | owner36 | 3600
+  Hash: 9a173603404c526390f740d1000a3f03
+  Time to Hash (ms): 46
+  CPU Usage (%): 84
+  Memory Usage (%): 16.31
+------------------------------------------------
+Asset ID: asset17
+  Hash Input: asset17 | color17 | 37 | owner17 | 1700
+  Hash: f0be97ad07591a4ac834e902f90a1947
+  Time to Hash (ms): 22
+  CPU Usage (%): 85.5
+  Memory Usage (%): 16.27
+------------------------------------------------
+Asset ID: asset63
+  Hash Input: asset63 | color63 | 83 | owner63 | 6300
+  Hash: 6495ee1f05645a7ea1195a7c347bd725
+  Time to Hash (ms): 62
+  CPU Usage (%): 78.8
+  Memory Usage (%): 16.27
+------------------------------------------------
+Asset ID: asset26
+  Hash Input: asset26 | color26 | 46 | owner26 | 2600
+  Hash: c1d1969db4f29f216e986b0529c781ef
+  Time to Hash (ms): 22
+  CPU Usage (%): 85
+  Memory Usage (%): 16.26
+------------------------------------------------
+Asset ID: asset27
+  Hash Input: asset27 | color27 | 47 | owner27 | 2700
+  Hash: 08dafea5241e7002e124da43343e6998
+  Time to Hash (ms): 51
+  CPU Usage (%): 81
+  Memory Usage (%): 16.25
+------------------------------------------------
+Asset ID: asset30
+  Hash Input: asset30 | color30 | 50 | owner30 | 3000
+  Hash: 3c3dae51e9b0dd02915f0fa73b4cf6f2
+  Time to Hash (ms): 58
+  CPU Usage (%): 79.5
+  Memory Usage (%): 16.16
+------------------------------------------------
+Asset ID: asset32
+  Hash Input: asset32 | color32 | 52 | owner32 | 3200
+  Hash: 76f22033b0e45ea6cd2797895b7ac4fd
+  Time to Hash (ms): 53
+  CPU Usage (%): 74.3
+  Memory Usage (%): 16.11
+------------------------------------------------
+Asset ID: asset51
+  Hash Input: asset51 | color51 | 71 | owner51 | 5100
+  Hash: 9c5c326e2c8d5d6fdc970e821fbc8718
+  Time to Hash (ms): 37
+  CPU Usage (%): 75
+  Memory Usage (%): 16.07
+------------------------------------------------
+Asset ID: asset34
+  Hash Input: asset34 | color34 | 54 | owner34 | 3400
+  Hash: a0d56bf4e565857bd7879e656a49b67f
+  Time to Hash (ms): 53
+  CPU Usage (%): 73.4
+  Memory Usage (%): 16.04
+------------------------------------------------
+Asset ID: asset38
+  Hash Input: asset38 | color38 | 58 | owner38 | 3800
+  Hash: 3fad8f8892663f40fa13fca4617a37e0
+  Time to Hash (ms): 44
+  CPU Usage (%): 74.8
+  Memory Usage (%): 16.04
+------------------------------------------------
+Asset ID: asset14
+  Hash Input: asset14 | color14 | 34 | owner14 | 1400
+  Hash: af249b512c176b413e197ef1ac4734dc
+  Time to Hash (ms): 34
+  CPU Usage (%): 76.5
+  Memory Usage (%): 16.03
+------------------------------------------------
+Asset ID: asset81
+  Hash Input: asset81 | color81 | 101 | owner81 | 8100
+  Hash: bcb1d352b3f70fc9bf20300d95fbd593
+  Time to Hash (ms): 68
+  CPU Usage (%): 60.4
+  Memory Usage (%): 15.95
+------------------------------------------------
+Asset ID: asset96
+  Hash Input: asset96 | color96 | 116 | owner96 | 9600
+  Hash: 99041ac62999bb8ec2c3b0d90eca1e3a
+  Time to Hash (ms): 70
+  CPU Usage (%): 59.8
+  Memory Usage (%): 15.93
+------------------------------------------------
+Asset ID: asset53
+  Hash Input: asset53 | color53 | 73 | owner53 | 5300
+  Hash: 093494a52deef3d78ce799def4440710
+  Time to Hash (ms): 71
+  CPU Usage (%): 63.5
+  Memory Usage (%): 15.92
+------------------------------------------------
+Asset ID: asset68
+  Hash Input: asset68 | color68 | 88 | owner68 | 6800
+  Hash: 75847e040a1ab52633a394dd89842193
+  Time to Hash (ms): 75
+  CPU Usage (%): 58.9
+  Memory Usage (%): 15.90
+------------------------------------------------
+Asset ID: asset74
+  Hash Input: asset74 | color74 | 94 | owner74 | 7400
+  Hash: d4a33cfcbddeb30aad690d1abfa00618
+  Time to Hash (ms): 75
+  CPU Usage (%): 58.9
+  Memory Usage (%): 15.87
+------------------------------------------------
+Asset ID: asset46
+  Hash Input: asset46 | color46 | 66 | owner46 | 4600
+  Hash: 34b755b5dab9dec094d77e2708e93cb2
+  Time to Hash (ms): 64
+  CPU Usage (%): 71.1
+  Memory Usage (%): 15.75
+------------------------------------------------
+Asset ID: asset13
+  Hash Input: asset13 | color13 | 33 | owner13 | 1300
+  Hash: e75c2ee3183e2a45bc8eef0e2babbd69
+  Time to Hash (ms): 46
+  CPU Usage (%): 70.7
+  Memory Usage (%): 15.73
+------------------------------------------------
+Asset ID: asset1
+  Hash Input: asset1 | color1 | 21 | owner1 | 100
+  Hash: 444d7c8b5be28d305f93d15fec941b74
+  Time to Hash (ms): 63
+  CPU Usage (%): 74.2
+  Memory Usage (%): 15.70
+------------------------------------------------
+Asset ID: asset42
+  Hash Input: asset42 | color42 | 62 | owner42 | 4200
+  Hash: 14b4e3d9e07abc37e1a78319a7626fe4
+  Time to Hash (ms): 61
+  CPU Usage (%): 69.9
+  Memory Usage (%): 15.64
+------------------------------------------------
+Asset ID: asset24
+  Hash Input: asset24 | color24 | 44 | owner24 | 2400
+  Hash: d19780bee94d8fc96cfae7d988016bf0
+  Time to Hash (ms): 40
+  CPU Usage (%): 73.1
+  Memory Usage (%): 15.69
+------------------------------------------------
+Asset ID: asset89
+Asset ID: asset20
+  Hash Input: asset89 | color89 | 109 | owner89 | 8900
+  Hash Input: asset20 | color20 | 40 | owner20 | 2000
+  Hash: 51200c62d07f0466b6b0262a549a7657
+  Hash: 0b36639cc868b1dbec2120b57e477d4a
+  Time to Hash (ms): 53
+  Time to Hash (ms): 86
+  CPU Usage (%): 73.1
+  CPU Usage (%): 60.2
+  Memory Usage (%): 15.25
+  Memory Usage (%): 15.62
+------------------------------------------------
+------------------------------------------------
+Asset ID: asset37
+  Hash Input: asset37 | color37 | 57 | owner37 | 3700
+  Hash: 98e6abe0b25a4d3d1f32db78e5e44fab
+  Time to Hash (ms): 58
+  CPU Usage (%): 71.9
+  Memory Usage (%): 15.25
+------------------------------------------------
+Asset ID: asset97
+  Hash Input: asset97 | color97 | 117 | owner97 | 9700
+  Hash: 5e4f9ff0984e34cd5b463546cced8c98
+  Time to Hash (ms): 83
+  CPU Usage (%): 67.9
+  Memory Usage (%): 15.22
+------------------------------------------------
+Asset ID: asset57
+  Hash Input: asset57 | color57 | 77 | owner57 | 5700
+  Hash: 7ae493fbe122558db9cff9fbce183d2a
+  Time to Hash (ms): 51
+  CPU Usage (%): 74.2
+  Memory Usage (%): 15.11
+------------------------------------------------
+Asset ID: asset82
+  Hash Input: asset82 | color82 | 102 | owner82 | 8200
+  Hash: 2260ce95cdb3fc1f100b5e231cbeaa8c
+  Time to Hash (ms): 62
+  CPU Usage (%): 66.2
+  Memory Usage (%): 15.03
+------------------------------------------------
+Asset ID: asset71
+  Hash Input: asset71 | color71 | 91 | owner71 | 7100
+  Hash: 0cb7a5623322f6a5a1a25906cef6b2c1
+  Time to Hash (ms): 69
+  CPU Usage (%): 72
+  Memory Usage (%): 14.96
+------------------------------------------------
+Asset ID: asset75
+  Hash Input: asset75 | color75 | 95 | owner75 | 7500
+  Hash: 34a910e2700046ac42ed530a9ec34110
+  Time to Hash (ms): 95
+  CPU Usage (%): 66.2
+  Memory Usage (%): 14.97
+------------------------------------------------
+Asset ID: asset87
+  Hash Input: asset87 | color87 | 107 | owner87 | 8700
+  Hash: 41b70b641fb4735bb7c35e377ebb7487
+  Time to Hash (ms): 90
+  CPU Usage (%): 64.5
+  Memory Usage (%): 15.22
+------------------------------------------------
+Asset ID: asset95
+  Hash Input: asset95 | color95 | 115 | owner95 | 9500
+Asset ID: asset59
+  Hash: f3542fdd5a440ac9e321defc2f3dffe5
+  Hash Input: asset59 | color59 | 79 | owner59 | 5900
+  Time to Hash (ms): 73
+  Hash: 2a4a82ada7c1c8ecb7e40439306c533a
+  CPU Usage (%): 64.5
+  Time to Hash (ms): 62
+  Memory Usage (%): 14.80
+  CPU Usage (%): 76
+  Memory Usage (%): 15.13
+------------------------------------------------
+------------------------------------------------
+Asset ID: asset90
+  Hash Input: asset90 | color90 | 110 | owner90 | 9000
+  Hash: feba648a181414896f7ad380b15acc47
+  Time to Hash (ms): 75
+  CPU Usage (%): 60.2
+  Memory Usage (%): 15.70
+------------------------------------------------
+Asset ID: asset40
+  Hash Input: asset40 | color40 | 60 | owner40 | 4000
+  Hash: 5ca80e9ab5843108639b864e4a2c2e53
+  Time to Hash (ms): 71
+  CPU Usage (%): 73.1
+  Memory Usage (%): 15.09
+------------------------------------------------
+Asset ID: asset80
+  Hash Input: asset80 | color80 | 100 | owner80 | 8000
+  Hash: 0c2bd9b267a10034138fb23ccb08c0de
+  Time to Hash (ms): 95
+  CPU Usage (%): 67.9
+  Memory Usage (%): 14.72
+------------------------------------------------
+Asset ID: asset91
+  Hash Input: asset91 | color91 | 111 | owner91 | 9100
+Asset ID: asset62
+  Hash: 38a75977305881b351bc9a1468801e32
+  Hash Input: asset62 | color62 | 82 | owner62 | 6200
+  Time to Hash (ms): 46
+  Hash: 3a86ff9fbbe3325018269bb47ab370e6
+  CPU Usage (%): 75.1
+  Time to Hash (ms): 43
+  Memory Usage (%): 14.53
+  CPU Usage (%): 71.9
+------------------------------------------------
+  Memory Usage (%): 14.82
+------------------------------------------------
+Asset ID: asset69
+  Hash Input: asset69 | color69 | 89 | owner69 | 6900
+  Hash: 936fe4c436c466fa088f68409a0f049e
+  Time to Hash (ms): 62
+  CPU Usage (%): 70.7
+  Memory Usage (%): 14.53
+------------------------------------------------
+Asset ID: asset73
+  Hash Input: asset73 | color73 | 93 | owner73 | 7300
+  Hash: 931626e1d5518c44eb121255596afdde
+  Time to Hash (ms): 70
+  CPU Usage (%): 70.7
+  Memory Usage (%): 15.39
+------------------------------------------------
+Asset ID: asset66
+  Hash Input: asset66 | color66 | 86 | owner66 | 6600
+  Hash: ef78d8187dc41cc063d9740d81b93846
+  Time to Hash (ms): 61
+  CPU Usage (%): 71.9
+  Memory Usage (%): 15.11
+------------------------------------------------
+Asset ID: asset100
+  Hash Input: asset100 | color100 | 120 | owner100 | 10000
+  Hash: 568b33a5f72c53a74edd40e7ca69add1
+  Time to Hash (ms): 155
+  CPU Usage (%): 60.1
+  Memory Usage (%): 14.63
+------------------------------------------------
+Asset ID: asset92
+  Hash Input: asset92 | color92 | 112 | owner92 | 9200
+  Hash: 76d91500577af058635867d6ca89f69d
+  Time to Hash (ms): 80
+  CPU Usage (%): 69.3
+  Memory Usage (%): 14.94
+------------------------------------------------
+Asset ID: asset70
+  Hash Input: asset70 | color70 | 90 | owner70 | 7000
+  Hash: 288cd6939cf7da129004083ff02e1af0
+  Time to Hash (ms): 81
+  CPU Usage (%): 69.3
+  Memory Usage (%): 15.03
+------------------------------------------------
+Asset ID: asset76
+  Hash Input: asset76 | color76 | 96 | owner76 | 7600
+  Hash: c1f09db62e6c0b2a8be887e7f01f1acc
+  Time to Hash (ms): 71
+  CPU Usage (%): 67.9
+  Memory Usage (%): 14.53
+------------------------------------------------
+Asset ID: asset35
+  Hash Input: asset35 | color35 | 55 | owner35 | 3500
+  Hash: 4a98aa0a02f343b0acc9e2b14555ad2d
+  Time to Hash (ms): 65
+  CPU Usage (%): 76
+  Memory Usage (%): 14.50
+------------------------------------------------
+Asset ID: asset9
+  Hash Input: asset9 | color9 | 29 | owner9 | 900
+  Hash: 7c9eb14319e9c14171852398f9643a3d
+  Time to Hash (ms): 64
+  CPU Usage (%): 74.2
+  Memory Usage (%): 14.53
+------------------------------------------------
+Asset ID: asset64
+  Hash Input: asset64 | color64 | 84 | owner64 | 6400
+  Hash: 6f547a15068647a304f469ccc045da59
+  Time to Hash (ms): 61
+  CPU Usage (%): 77.7
+  Memory Usage (%): 14.41
+------------------------------------------------
+Asset ID: asset61
+  Hash Input: asset61 | color61 | 81 | owner61 | 6100
+  Hash: 2e2e850ade87d5c78137e92c3800bf73
+  Time to Hash (ms): 73
+  CPU Usage (%): 73.1
+  Memory Usage (%): 14.41
+------------------------------------------------
+Asset ID: asset94
+  Hash Input: asset94 | color94 | 114 | owner94 | 9400
+  Hash: d49e373bf56d129ebdde565155aba861
+  Time to Hash (ms): 81
+  CPU Usage (%): 62.4
+  Memory Usage (%): 14.41
+------------------------------------------------
+Asset ID: asset67
+  Hash Input: asset67 | color67 | 87 | owner67 | 6700
+  Hash: 5a5c1b421c47a782b74bb4d180dfbbac
+  Time to Hash (ms): 72
+  CPU Usage (%): 66.2
+  Memory Usage (%): 14.43
+------------------------------------------------
+Asset ID: asset33
+  Hash Input: asset33 | color33 | 53 | owner33 | 3300
+  Hash: be595c7d69fad900f8fa8ab3eb78d564
+  Time to Hash (ms): 39
+  CPU Usage (%): 78.3
+  Memory Usage (%): 14.43
+------------------------------------------------
+Asset ID: asset98
+  Hash Input: asset98 | color98 | 118 | owner98 | 9800
+  Hash: d94269df93b1d967018e5d2bdb007896
+  Time to Hash (ms): 47
+  CPU Usage (%): 70.7
+  Memory Usage (%): 14.41
+------------------------------------------------
+Asset ID: asset47
+  Hash Input: asset47 | color47 | 67 | owner47 | 4700
+  Hash: 58564526019af5bbe1077bb22f689709
+  Time to Hash (ms): 75
+  CPU Usage (%): 74.2
+  Memory Usage (%): 14.53
+------------------------------------------------
+Asset ID: asset77
+  Hash Input: asset77 | color77 | 97 | owner77 | 7700
+  Hash: e4a2647ff9750238895a8e3c6dfb28f7
+  Time to Hash (ms): 71
+Asset ID: asset56
+  CPU Usage (%): 73.1
+  Memory Usage (%): 14.47
+  Hash Input: asset56 | color56 | 76 | owner56 | 5600
+------------------------------------------------
+  Hash: 301da0c090e80808f99d0801986e01a3
+  Time to Hash (ms): 86
+  CPU Usage (%): 70.8
+  Memory Usage (%): 14.41
+------------------------------------------------
+Asset ID: asset93
+  Hash Input: asset93 | color93 | 113 | owner93 | 9300
+  Hash: 9f00735048ec4dba9d5e40eaa7664a50
+  Time to Hash (ms): 78
+  CPU Usage (%): 73.1
+  Memory Usage (%): 14.41
+------------------------------------------------
+Asset ID: asset65
+  Hash Input: asset65 | color65 | 85 | owner65 | 6500
+  Hash: 8d83f07f0f3d8e83f3370651a2066467
+  Time to Hash (ms): 71
+  CPU Usage (%): 70.7
+  Memory Usage (%): 15.29
+------------------------------------------------
+Asset ID: asset72
+  Hash Input: asset72 | color72 | 92 | owner72 | 7200
+  Hash: 9b570f7e981dc26c140939ba161f2364
+  Time to Hash (ms): 62
+  CPU Usage (%): 71.9
+  Memory Usage (%): 14.41
+------------------------------------------------
+Asset ID: asset12
+  Hash Input: asset12 | color12 | 32 | owner12 | 1200
+  Hash: bfa8f183b6432109ae995a77d353c552
+  Time to Hash (ms): 61
+  CPU Usage (%): 71.9
+  Memory Usage (%): 14.41
+------------------------------------------------
+Asset ID: asset41
+  Hash Input: asset41 | color41 | 61 | owner41 | 4100
+  Hash: 0dbc1373557a62565586f556806b930b
+  Time to Hash (ms): 95
+  CPU Usage (%): 57.6
+  Memory Usage (%): 14.41
+------------------------------------------------
+Asset ID: asset86
+  Hash Input: asset86 | color86 | 106 | owner86 | 8600
+  Hash: 0b94d2ff35b2d4af2987ff204e2926b3
+  Time to Hash (ms): 73
+  CPU Usage (%): 69.3
+  Memory Usage (%): 14.40
+------------------------------------------------
+Asset ID: asset84
+  Hash Input: asset84 | color84 | 104 | owner84 | 8400
+  Hash: b517dde17dc727e4b5e2df3cd35b00b7
+  Time to Hash (ms): 61
+  CPU Usage (%): 71.9
+  Memory Usage (%): 14.40
+------------------------------------------------
+Asset ID: asset99
+  Hash Input: asset99 | color99 | 119 | owner99 | 9900
+  Hash: daa60f6c829cf9d5d2b640f0dd685187
+  Time to Hash (ms): 62
+  CPU Usage (%): 70.7
+  Memory Usage (%): 14.40
+------------------------------------------------
+Asset ID: asset58
+  Hash Input: asset58 | color58 | 78 | owner58 | 5800
+  Hash: 30c7ad929039dbe66f7ed019c5a2e6d7
+  Time to Hash (ms): 71
+  CPU Usage (%): 74.2
+  Memory Usage (%): 14.80
+------------------------------------------------
+Asset ID: asset52
+  Hash Input: asset52 | color52 | 72 | owner52 | 5200
+  Hash: c34223aca7ab2f71dcf3fd5a8ee90750
+  Time to Hash (ms): 92
+Asset ID: asset54
+  CPU Usage (%): 70.7
+  Memory Usage (%): 15.17
+  Hash Input: asset54 | color54 | 74 | owner54 | 5400
+------------------------------------------------
+  Hash: c8f21e6680a7b87f9a4fd4dd6dbd549b
+  Time to Hash (ms): 56
+  CPU Usage (%): 73.1
+  Memory Usage (%): 14.39
+------------------------------------------------
+Asset ID: asset60
+  Hash Input: asset60 | color60 | 80 | owner60 | 6000
+  Hash: 70f515091a992ae7d26c5964015096f8
+  Time to Hash (ms): 54
+  CPU Usage (%): 76
+  Memory Usage (%): 14.38
+------------------------------------------------
+Asset ID: asset39
+Asset ID: asset78
+  Hash Input: asset39 | color39 | 59 | owner39 | 3900
+  Hash Input: asset78 | color78 | 98 | owner78 | 7800
+  Hash: d3b6dfabdaaba0cc6e6ef63b0a789544
+  Hash: fd48f60927834ebff6eb02a2339278d8
+  Time to Hash (ms): 114
+  Time to Hash (ms): 70
+  CPU Usage (%): 66.3
+  CPU Usage (%): 71.9
+  Memory Usage (%): 14.38
+  Memory Usage (%): 14.41
+------------------------------------------------
+------------------------------------------------
+Asset ID: asset85
+  Hash Input: asset85 | color85 | 105 | owner85 | 8500
+  Hash: 3b375e3389309a7d7f39e000f14c6a19
+  Time to Hash (ms): 72
+  CPU Usage (%): 69.3
+Asset ID: asset83
+  Memory Usage (%): 14.41
+------------------------------------------------
+  Hash Input: asset83 | color83 | 103 | owner83 | 8300
+  Hash: ac1f97bdbbf794bd439f237a6c944caf
+  Time to Hash (ms): 95
+  CPU Usage (%): 70.8
+  Memory Usage (%): 14.41
+------------------------------------------------
+Asset ID: asset88
+  Hash Input: asset88 | color88 | 108 | owner88 | 8800
+  Hash: 6a2669ba2485be492b98cab9a09ff36c
+  Time to Hash (ms): 78
+  CPU Usage (%): 60.1
+  Memory Usage (%): 14.35
+------------------------------------------------
+Asset ID: asset29
+  Hash Input: asset29 | color29 | 49 | owner29 | 2900
+  Hash: 64f58ea4e048cdccaa1a476a74819a75
+  Time to Hash (ms): 50
+  CPU Usage (%): 77.7
+  Memory Usage (%): 14.38
+Asset ID: asset79
+------------------------------------------------
+  Hash Input: asset79 | color79 | 99 | owner79 | 7900
+  Hash: 8c136863148ada46dabe360c5355539d
+  Time to Hash (ms): 64
+  CPU Usage (%): 62.4
+  Memory Usage (%): 14.35
+------------------------------------------------
+Asset ID: asset48
+  Hash Input: asset48 | color48 | 68 | owner48 | 4800
+  Hash: 03efcc6f0092adcd69e349d9a5de26d2
+  Time to Hash (ms): 41
+  CPU Usage (%): 74.1
+  Memory Usage (%): 14.39
+------------------------------------------------
+Asset ID: asset44
+  Hash Input: asset44 | color44 | 64 | owner44 | 4400
+  Hash: 7571429e69e0d1d3c9c0a30a9a964e0e
+  Time to Hash (ms): 55
+  CPU Usage (%): 75.1
+Asset ID: asset43
+  Memory Usage (%): 14.31
+  Hash Input: asset43 | color43 | 63 | owner43 | 4300
+------------------------------------------------
+  Hash: 894342ceab8ac8c7b06625a899c238b7
+  Time to Hash (ms): 76
+  CPU Usage (%): 71.9
+  Memory Usage (%): 14.31
+------------------------------------------------
+Asset ID: asset11
+  Hash Input: asset11 | color11 | 31 | owner11 | 1100
+  Hash: 4572903b4d02b018e46913707b93455c
+  Time to Hash (ms): 58
+  CPU Usage (%): 74.2
+  Memory Usage (%): 14.36
+------------------------------------------------
+Asset ID: asset10
+  Hash Input: asset10 | color10 | 30 | owner10 | 1000
+  Hash: 9b71893397c1a35eb427847bb7b27672
+  Time to Hash (ms): 88
+  CPU Usage (%): 66.2
+  Memory Usage (%): 14.29
+------------------------------------------------
+Benchmark Metrics:
+  Total Assets Processed: 100
+  Success Count: 100
+  Failure Count: 0
+  Total Execution Time (ms): 453
+  Average Time per Asset (ms): 4
+  Resource Usage:
+    Peak CPU Usage (%): 100
+    Average CPU Usage (%): 76.00
+    Peak Memory Usage (%): 16.96
+    Average Memory Usage (%): 15.39
+  Latency Distribution (ms):
+    Minimum: 3.00
+    Maximum: 155.00
+    Average: 57.89
+    Std Dev: 25.09
+  Throughput (assets/second): 220.75
+------------------------------------------------

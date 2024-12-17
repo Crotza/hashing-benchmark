@@ -1,0 +1,6 @@
+Algorithm,Mode,Assets Processed,Success,Failures,Total Time (ms),Min Latency (ms),Max Latency (ms),Avg Latency (ms),Std Dev Latency (ms),Peak CPU (%),Avg CPU (%),Peak Mem (%),Avg Mem (%),Throughput (assets/sec)
+sha256,parallel,1000,1000,0,16610,5.00,2987.00,487.77,514.67,100,99.97,41.76,29.95,60.20
+sha512,parallel,1000,1000,0,13171,4.00,795.00,308.58,128.78,100.1,100.00,33.78,24.60,75.92
+blake3,parallel,1000,1000,0,13855,9.00,1211.00,463.66,204.73,100,100.00,37.38,28.54,72.18
+blake2b,parallel,1000,1000,0,12778,6.00,1106.00,369.43,145.14,100,99.97,35.38,27.33,78.26
+md5,parallel,1000,1000,0,13767,5.00,3270.00,431.61,564.07,100.1,99.95,32.40,23.88,72.64

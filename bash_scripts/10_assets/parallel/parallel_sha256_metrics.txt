@@ -1,0 +1,92 @@
+Asset Creation Log - Parallel Hashing - Tue Dec 17 12:29:37 -03 2024
+------------------------------------------------
+Hashing Algorithm: sha256
+
+Asset ID: asset2
+  Hash Input: asset2 | color2 | 22 | owner2 | 200
+  Hash: 82ffadf1309cc8923aecd0fe9086c0f89e2c486abcf210942de787eeb880c8ff
+  Time to Hash (ms): 3
+  CPU Usage (%): 5.7
+  Memory Usage (%): 13.63
+------------------------------------------------
+Asset ID: asset5
+  Hash Input: asset5 | color5 | 25 | owner5 | 500
+  Hash: cb6f57399f89a4101102aaac5e86b14c1a0f491c840fae4244bdfddf4bdf174d
+  Time to Hash (ms): 6
+  CPU Usage (%): 0
+  Memory Usage (%): 13.63
+------------------------------------------------
+Asset ID: asset4
+  Hash Input: asset4 | color4 | 24 | owner4 | 400
+  Hash: 1a48aafdb04602faaaa270ee66de0f85fdd5897c80ee72f78adc3611362b7607
+  Time to Hash (ms): 6
+  CPU Usage (%): 0
+  Memory Usage (%): 13.61
+------------------------------------------------
+Asset ID: asset8
+  Hash Input: asset8 | color8 | 28 | owner8 | 800
+  Hash: 217b60baf399a3a8fa613d55301c0c12b0b7ad84657466dd1512440948ab8c27
+  Time to Hash (ms): 5
+  CPU Usage (%): 6.4
+  Memory Usage (%): 13.61
+------------------------------------------------
+Asset ID: asset7
+  Hash Input: asset7 | color7 | 27 | owner7 | 700
+  Hash: 930ccdacd211b0aa10ccbd423ec2dd759b93fef7f42b1c472c0c1545e016f4b4
+  Time to Hash (ms): 5
+  CPU Usage (%): 6.4
+  Memory Usage (%): 13.61
+------------------------------------------------
+Asset ID: asset3
+  Hash Input: asset3 | color3 | 23 | owner3 | 300
+  Hash: 68b05ad4543eb0d8cd8a5bf8c2be897484d57312fd32e96d9f1ee335c9205bbe
+  Time to Hash (ms): 5
+  CPU Usage (%): 6.4
+  Memory Usage (%): 13.61
+------------------------------------------------
+Asset ID: asset9
+Asset ID: asset1
+  Hash Input: asset1 | color1 | 21 | owner1 | 100
+  Hash Input: asset9 | color9 | 29 | owner9 | 900
+  Hash: 9ba4a25cef1df3a9ce6d011434ff7e782fa130c665d7e39a29622124f7eb2898
+  Hash: 272d693ea1ade4e19c4a6aebf3a0ff5a5305bf16822b6f5c9cd4785d38e99253
+  Time to Hash (ms): 8
+  Time to Hash (ms): 5
+  CPU Usage (%): 6.4
+  CPU Usage (%): 0
+  Memory Usage (%): 13.61
+  Memory Usage (%): 13.61
+------------------------------------------------
+------------------------------------------------
+Asset ID: asset6
+  Hash Input: asset6 | color6 | 26 | owner6 | 600
+  Hash: 81d61290aec87943718d3e1ff3acf94e767532279ea6e6953d86b43ddc705965
+  Time to Hash (ms): 4
+  CPU Usage (%): 0
+  Memory Usage (%): 13.61
+------------------------------------------------
+Asset ID: asset10
+  Hash Input: asset10 | color10 | 30 | owner10 | 1000
+  Hash: 0e115254fe1d109b1761402242edea87bd214cfb0300504c0fd5cba4cc0bcbcc
+  Time to Hash (ms): 10
+  CPU Usage (%): 6.4
+  Memory Usage (%): 13.61
+------------------------------------------------
+Benchmark Metrics:
+  Total Assets Processed: 10
+  Success Count: 10
+  Failure Count: 0
+  Total Execution Time (ms): 182
+  Average Time per Asset (ms): 18
+  Resource Usage:
+    Peak CPU Usage (%): 6.4
+    Average CPU Usage (%): 3.77
+    Peak Memory Usage (%): 13.63
+    Average Memory Usage (%): 13.61
+  Latency Distribution (ms):
+    Minimum: 3.00
+    Maximum: 10.00
+    Average: 5.70
+    Std Dev: 1.90
+  Throughput (assets/second): 54.95
+------------------------------------------------
