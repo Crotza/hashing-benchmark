@@ -199,13 +199,28 @@ root-level/
 
 1. **Performance Improvement**:  
    - Parallel execution significantly reduces the **Total Time** and increases **Throughput**.  
+   - The analysis of the results shows that parallel execution significantly improves performance:
+      - Throughput increases dramatically when assets are processed in parallel, reducing the Total Time for all hashing algorithms.
+   - The improvements are clearly visible in the relative improvement plots for 10, 100, and 1000 assets:
+      - **10 Assets**: MD5 shows the highest relative improvement (~2400%), while SHA256 and SHA512 are consistent with ~800%.
+      - **100 Assets**: BLAKE3 and MD5 achieve the highest relative improvement (~4600%), followed closely by SHA256 and SHA512 (~3700%).
+      - **1000 Assets**: The improvements stabilize across algorithms, with BLAKE3, BLAKE2b, and SHA512 showing significant gains (~1300%).
 
 2. **BLAKE3 Performance**:  
-   - BLAKE3 consistently outperforms others in both sequential and parallel modes due to its design for parallel processing.  
-
+   - BLAKE3 consistently outperforms other algorithms due to its optimization for parallel execution and low resource overhead.
+   - Even at higher asset counts, BLAKE3 maintains its superior throughput and latency performance.
+   
 3. **Resource Utilization**:  
-   - CPU usage is higher for parallel processing.  
-   - Memory usage remains within acceptable limits.
+   - **CPU Usage**:
+      - Parallel execution increases CPU utilization due to multiple threads running simultaneously.
+      - However, the average CPU usage remains manageable, peaking slightly higher for larger asset counts.
+   - **Memory Usage**:
+      - Memory usage shows minimal variation between sequential and parallel modes, demonstrating the efficiency of the scripts and hashing algorithms.
+
+### **Key Observations**
+Parallel processing improves throughput across all algorithms, with MD5 and BLAKE3 showing the most significant gains.
+The scalability of improvements depends on both the number of assets and the algorithm used.
+As asset count increases, relative improvements stabilize, indicating a balance between CPU usage and parallel workload.
 
 ---
 
